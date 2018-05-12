@@ -1,0 +1,32 @@
+_repo: Mount-Royal-Volume-3-of-3A-Novel_41341
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - Braddon, Mary Elizabeth
+    - Maxwell, Mary Elizabeth Braddon
+    - Breddon, Miss
+    - White, Babington
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: ''
+gutenberg_issued: '2012-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'Mount Royal: A Novel. Volume 3 of 3'
+url: http://www.gutenberg.org/ebooks/41341
