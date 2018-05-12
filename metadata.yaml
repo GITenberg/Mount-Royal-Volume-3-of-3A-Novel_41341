@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2957
     wikipedia: http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41341#Mount-Royal-Volume-3-of-3A-Novel
 gutenberg_issued: '2012-11-10'
 gutenberg_type: Text
 identifiers:
